@@ -1,0 +1,8 @@
+build/
+**/*.exe
+**/*.dll
+**/*.lib
+out/
+.vscode/
+.vs/
+!dep/**/*
